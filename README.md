@@ -3,7 +3,7 @@
 A Turkish LoRA adapter trained on top of [[VoxCPM2](https://huggingface.co/openbmb/VoxCPM2?utm_source=chatgpt.com)](https://huggingface.co/openbmb/VoxCPM2), using ~18 hours of single-speaker data.
 
 ## HuggingFace Repo
-https://huggingface.co/mramazan/voxcpm2-turkish-tts-lora/edit/main/README.md
+https://huggingface.co/mramazan/voxcpm2-turkish-tts-lora
 
 ## Training Details
 
