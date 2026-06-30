@@ -14,9 +14,9 @@ https://huggingface.co/mramazan/voxcpm2-turkish-tts-lora
 * **Preprocessing:** Turkish-specific number/date normalization (`trnorm`), -23 LUFS loudness normalization, sentence integrity filtering (truncated segments removed), 3–20 second utterance range
 
 ## Sample Inference Results
-<audio controls> <source src="https://huggingface.co/mramazan/voxcpm2-turkish-tts-lora/resolve/main/1.wav" type="audio/wav"> </audio>
-<audio controls> <source src="https://huggingface.co/mramazan/voxcpm2-turkish-tts-lora/resolve/main/2.wav" type="audio/wav"> </audio>
-<audio controls> <source src="https://huggingface.co/mramazan/voxcpm2-turkish-tts-lora/resolve/main/3.wav" type="audio/wav"> </audio>
+https://huggingface.co/mramazan/voxcpm2-turkish-tts-lora/resolve/main/1.wav <br>
+https://huggingface.co/mramazan/voxcpm2-turkish-tts-lora/resolve/main/2.wav <br>
+https://huggingface.co/mramazan/voxcpm2-turkish-tts-lora/resolve/main/3.wav <br>
 
 
 
